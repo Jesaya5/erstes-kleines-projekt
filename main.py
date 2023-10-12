@@ -9,7 +9,7 @@ Beruf: str = input("Was ist dein Traumberuf? ")
 madlib = f" Hallo! mein Name ist {name}.Ich bin {groesse}m groß\
     und komme aus {stadt}. Mein Traum ist es einmal nach\
  {traum} zu reisen und dort {sportart}zu spielen.\
-      Am liebsten schaue ich {serie} und esse dabei {essen}.\
+   Am liebsten schaue ich {serie} und esse dabei {essen}.\
  Als kind habe ich immer davon geträumt {Beruf} zu werden."
 
 
